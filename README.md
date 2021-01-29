@@ -1,16 +1,25 @@
-# Feriados Brasileiros
-Esta é uma API simples provida pelo GitHub Pages.
+# Holidays Brasil
+This is a simple API provided by GitHub Pages.
 
-## Nacionais
+## National
 
-    GET /feriados/nacionais.json HTTP/1.1
-    Host: dadosbr.github.io
+    GET /holidays/national.json HTTP/1.1
+    Host: rodriguesfas.github.io
 
-## Estaduais
+## State
 
-    GET /feriados/estaduais/{UF}.json HTTP/1.1
-    Host: dadosbr.github.io
+    GET /holidays/state/{uf}.json HTTP/1.1
+    Host: rodriguesfas.github.io
 
-# Créditos
+## city
 
-(Dados Brasileiros)[https://github.com/dadosbr]
+    GET /holidays/city/{initial}.json HTTP/1.1
+    Host: rodriguesfas.github.io
+
+[Map initial](https://www.embratel.com.br/documento/codigos_ddd.pdf)
+
+# Credits
+
+Baseline Inspiration - [Dados Brasileiros](https://github.com/dadosbr)
+
+Template - [API-Documentation-HTML-Template](https://github.com/ticlekiwi/API-Documentation-HTML-Template)
