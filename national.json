@@ -9,8 +9,8 @@
         "variableDates": {}
     },
     {
-        "date": "",
-        "title": "Sexta-Feira da Paixão",
+        "date": "02/04",
+        "title": "Sexta-Feira Santa",
         "description": "Data cristã na qual a morte de Cristo é lembrada.",
         "legislation": "Lei nº 9.093, de 12 de setembro de 1995 - http://www.planalto.gov.br/ccivil_03/Leis/L9093.htm",
         "type": "feriado",
@@ -24,6 +24,16 @@
             "2019": "19/04",
             "2020": "10/04"
         }
+    },
+    {
+        "date": "04/04",
+        "title": "Domingo de Pascoa",
+        "description": "",
+        "legislation": "",
+        "type": "feriado",
+        "startTime": "",
+        "endTime": "",
+        "variableDates": {}
     },
     {
         "date": "21/04",

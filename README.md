@@ -1,5 +1,5 @@
 # Holidays Brasil
-This is a simple API provided by GitHub Pages.
+A small API of Brazilian holidays provided by GitHub Pages.
 
 ## National
 
