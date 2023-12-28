@@ -312,8 +312,8 @@
     "title": "Páscoa",
     "description": "",
     "legislation": "",
-    "category": "",
-    "categoryColor": "",
+    "category": "Feriados nacionais",
+    "categoryColor": "#78CE70",
     "startTime": "",
     "endTime": "",
     "variableDates": {}
@@ -543,8 +543,8 @@
     "title": "Dia da Conscientização da Fibromialgia e Fadiga Crônica",
     "description": "",
     "legislation": "",
-    "category": "",
-    "categoryColor": "",
+    "category": "Dias/Campanhas de combate e prevenção a doenças",
+    "categoryColor": "#00B39B",
     "startTime": "",
     "endTime": "",
     "variableDates": {}
@@ -554,8 +554,8 @@
     "title": "Dia das Mães",
     "description": "",
     "legislation": "",
-    "category": "",
-    "categoryColor": "",
+    "category": "Dias/Campanhas de combate e prevenção a doenças",
+    "categoryColor": "#00B39B",
     "startTime": "",
     "endTime": "",
     "variableDates": {}
@@ -1159,8 +1159,8 @@
     "title": "Dia Nacional da Saúde",
     "description": "",
     "legislation": "",
-    "category": "",
-    "categoryColor": "",
+    "category": "Outras datas importantes relacionadas à saúde",
+    "categoryColor": "#005E51",
     "startTime": "",
     "endTime": "",
     "variableDates": {}
