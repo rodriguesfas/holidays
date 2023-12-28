@@ -1,6 +1,6 @@
 [
   {
-    "date": "01/01",
+    "date": "01-01",
     "title": "Confraternização Universal - Ano Novo 🎉",
     "description": "Início do ano civil, Dia Mundial da Paz, além de Dia da Fraternidade Universal, sendo assim, um feriado internacional, adotado por quase todas as nações do planeta.",
     "legislation": "Lei nº 10.607, de 19 de dezembro de 2002 - http://www.planalto.gov.br/ccivil_03/leis/2002/L10607.htm",
@@ -11,7 +11,7 @@
     "variableDates": {}
   },
   {
-    "date": "02/01",
+    "date": "02-01",
     "title": "Dia do Sanitarista",
     "description": "",
     "legislation": "",
@@ -22,18 +22,18 @@
     "variableDates": {}
   },
   {
-    "date": "13/01",
+    "date": "13-01",
     "title": "Dia Mundial do Combate à Depressão",
     "description": "",
     "legislation": "",
-    "category": "Dias/campanhas de combate e prevenção a doenças",
+    "category": "Dias campanhas de combate e prevenção a doenças",
     "category_color": "",
     "startTime": "",
     "endTime": "",
     "variableDates": {}
   },
   {
-    "date": "23/01",
+    "date": "23-01",
     "title": "Dia Internacional da Medicina Integrativa",
     "description": "",
     "legislation": "",
@@ -44,7 +44,7 @@
     "variableDates": {}
   },
   {
-    "date": "27/01",
+    "date": "27-01",
     "title": "Dia Mundial contra a Hanseníase",
     "description": "",
     "legislation": "",
@@ -55,7 +55,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/02",
+    "date": "01-02",
     "title": "Semana Nacional de Prevenção da Gravidez na Adolescência",
     "description": "",
     "legislation": "",
@@ -66,7 +66,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/02",
+    "date": "04-02",
     "title": "Dia Mundial Contra o Câncer",
     "description": "",
     "legislation": "",
@@ -77,7 +77,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/02",
+    "date": "05-02",
     "title": "Dia do Dermatologista",
     "description": "",
     "legislation": "",
@@ -88,7 +88,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/02",
+    "date": "05-02",
     "title": "Dia do Mastologista",
     "description": "",
     "legislation": "",
@@ -99,7 +99,7 @@
     "variableDates": {}
   },
   {
-    "date": "13/02",
+    "date": "13-02",
     "title": "Carnaval 🎭",
     "description": "",
     "legislation": "",
@@ -110,7 +110,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/02",
+    "date": "14-02",
     "title": "4 Dia Internacional da Epilepsia",
     "description": "",
     "legislation": "",
@@ -121,7 +121,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/02",
+    "date": "15-02",
     "title": "Dia Internacional de Luta Contra o Câncer Infantil",
     "description": "",
     "legislation": "",
@@ -132,7 +132,7 @@
     "variableDates": {}
   },
   {
-    "date": "20/02",
+    "date": "20-02",
     "title": "Dia Nacional de Combate às Drogas e ao Alcoolismo",
     "description": "",
     "legislation": "",
@@ -143,7 +143,7 @@
     "variableDates": {}
   },
   {
-    "date": "28/02",
+    "date": "28-02",
     "title": "Dia Mundial das Doenças Raras",
     "description": "",
     "legislation": "",
@@ -154,7 +154,7 @@
     "variableDates": {}
   },
   {
-    "date": "03/03",
+    "date": "03-03",
     "title": "Dia do Otorrinolaringologista",
     "description": "",
     "legislation": "",
@@ -165,7 +165,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/03",
+    "date": "04-03",
     "title": "Dia Mundial da Obesidade",
     "description": "",
     "legislation": "",
@@ -176,7 +176,7 @@
     "variableDates": {}
   },
   {
-    "date": "08/03",
+    "date": "08-03",
     "title": "08 Dia Internacional da Mulher ♀️",
     "description": "",
     "legislation": "",
@@ -187,7 +187,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/03",
+    "date": "09-03",
     "title": "Dia do Nefrologista",
     "description": "",
     "legislation": "",
@@ -198,7 +198,7 @@
     "variableDates": {}
   },
   {
-    "date": "20/03",
+    "date": "20-03",
     "title": "Dia Mundial da Saúde Bucal ",
     "description": "",
     "legislation": "",
@@ -209,7 +209,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/03",
+    "date": "21-03",
     "title": "Dia Nacional da Síndrome de Down",
     "description": "",
     "legislation": "",
@@ -220,7 +220,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/03",
+    "date": "21-03",
     "title": "Dia Mundial da Infância 🐻",
     "description": "",
     "legislation": "",
@@ -231,7 +231,7 @@
     "variableDates": {}
   },
   {
-    "date": "22/03",
+    "date": "22-03",
     "title": "Dia Mundial da Água 💧",
     "description": "",
     "legislation": "",
@@ -242,7 +242,7 @@
     "variableDates": {}
   },
   {
-    "date": "23/03",
+    "date": "23-03",
     "title": "Dia do Acupunturista",
     "description": "",
     "legislation": "",
@@ -253,7 +253,7 @@
     "variableDates": {}
   },
   {
-    "date": "24/03",
+    "date": "24-03",
     "title": "Dia Mundial de Combate à Tuberculose",
     "description": "",
     "legislation": "",
@@ -264,7 +264,7 @@
     "variableDates": {}
   },
   {
-    "date": "26/03",
+    "date": "26-03",
     "title": "Dia Mundial de Conscientização da Epilepsia",
     "description": "",
     "legislation": "",
@@ -275,7 +275,7 @@
     "variableDates": {}
   },
   {
-    "date": "29/03",
+    "date": "29-03",
     "title": "Sexta-Feira Santa",
     "description": "Data cristã na qual a morte de Cristo é lembrada.",
     "legislation": "Lei nº 9.093, de 12 de setembro de 1995 - http://www.planalto.gov.br/ccivil_03/Leis/L9093.htm",
@@ -286,7 +286,7 @@
     "variableDates": {}
   },
   {
-    "date": "31/03",
+    "date": "31-03",
     "title": "Dia Nacional da Saúde e da Nutrição 🍏",
     "description": "",
     "legislation": "",
@@ -297,7 +297,7 @@
     "variableDates": {}
   },
   {
-    "date": "31/03",
+    "date": "31-03",
     "title": "Páscoa",
     "description": "",
     "legislation": "",
@@ -308,7 +308,7 @@
     "variableDates": {}
   },
   {
-    "date": "02/04",
+    "date": "02-04",
     "title": "Dia Mundial da Conscientização do Autismo",
     "description": "",
     "legislation": "",
@@ -319,7 +319,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/04",
+    "date": "05-04",
     "title": "Dia Mundial da Atividade Física",
     "description": "",
     "legislation": "",
@@ -330,7 +330,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/04",
+    "date": "07-04",
     "title": "Dia Mundial da Saúde 💉",
     "description": "",
     "legislation": "",
@@ -341,7 +341,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/04",
+    "date": "07-04",
     "title": "Dia do Médico Legista",
     "description": "",
     "legislation": "",
@@ -352,7 +352,7 @@
     "variableDates": {}
   },
   {
-    "date": "11/04",
+    "date": "11-04",
     "title": "Dia do Infectologista",
     "description": "",
     "legislation": "",
@@ -363,7 +363,7 @@
     "variableDates": {}
   },
   {
-    "date": "11/04",
+    "date": "11-04",
     "title": "Dia Mundial de Conscientização da Doença de Parkinson",
     "description": "",
     "legislation": "",
@@ -374,7 +374,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/04",
+    "date": "12-04",
     "title": "Dia do Obstetra",
     "description": "",
     "legislation": "",
@@ -385,7 +385,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/04",
+    "date": "14-04",
     "title": "Dia do Neurocirurgião",
     "description": "",
     "legislation": "",
@@ -396,7 +396,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/04",
+    "date": "14-04",
     "title": "Dia do Técnico em Serviço de Saúde",
     "description": "",
     "legislation": "",
@@ -407,7 +407,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/04",
+    "date": "21-04",
     "title": "Tiradentes",
     "description": "Homenagem ao mártir da Inconfidência Mineira",
     "legislation": "Lei nº 10.607, de 19 de dezembro de 2002 - http://www.planalto.gov.br/ccivil_03/leis/2002/L10607.htm",
@@ -418,7 +418,7 @@
     "variableDates": {}
   },
   {
-    "date": "24/04",
+    "date": "24-04",
     "title": "Dia Mundial de Combate à Meningite",
     "description": "",
     "legislation": "",
@@ -429,7 +429,7 @@
     "variableDates": {}
   },
   {
-    "date": "25/04",
+    "date": "25-04",
     "title": "Dia Mundial da Luta Contra a Malária",
     "description": "",
     "legislation": "",
@@ -440,7 +440,7 @@
     "variableDates": {}
   },
   {
-    "date": "26/04",
+    "date": "26-04",
     "title": "Dia Nacional de Prevenção e Combate à Hipertensão Arterial",
     "description": "",
     "legislation": "",
@@ -451,7 +451,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/05",
+    "date": "01-05",
     "title": "Dia do Trabalhador",
     "description": "Dia Internacional dos Trabalhadores, adotado por muitos países.",
     "category": "Feriados nacionais",
@@ -462,7 +462,7 @@
     "variableDates": {}
   },
   {
-    "date": "03/05",
+    "date": "03-05",
     "title": "Dia Mundial de Combate à Asma",
     "description": "",
     "legislation": "",
@@ -473,7 +473,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/05",
+    "date": "05-05",
     "title": "Dia Nacional sobre o Uso Racional de Medicamentos 💊",
     "description": "",
     "legislation": "",
@@ -484,7 +484,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/05",
+    "date": "07-05",
     "title": "Dia do Oftalmologista 👓",
     "description": "",
     "legislation": "",
@@ -495,7 +495,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/05",
+    "date": "07-05",
     "title": "Dia Nacional de Prevenção da Alergia",
     "description": "",
     "legislation": "",
@@ -506,7 +506,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/05",
+    "date": "12-05",
     "title": "Dia da Enfermagem e do Enfermeiro",
     "description": "",
     "legislation": "",
@@ -517,7 +517,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/05",
+    "date": "12-05",
     "title": "Dia da Conscientização da Fibromialgia e Fadiga Crônica",
     "description": "",
     "legislation": "",
@@ -528,7 +528,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/05",
+    "date": "12-05",
     "title": "Dia das Mães",
     "description": "",
     "legislation": "",
@@ -539,7 +539,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/05",
+    "date": "15-05",
     "title": "Dia de Combate à Infecção Hospitalar",
     "description": "",
     "legislation": "",
@@ -550,7 +550,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/05",
+    "date": "15-05",
     "title": "Dia da Família",
     "description": "",
     "legislation": "",
@@ -561,7 +561,7 @@
     "variableDates": {}
   },
   {
-    "date": "16/05",
+    "date": "16-05",
     "title": "Dia do Geriatra",
     "description": "",
     "legislation": "",
@@ -572,7 +572,7 @@
     "variableDates": {}
   },
   {
-    "date": "17/05",
+    "date": "17-05",
     "title": "Dia Mundial da Hipertensão Arterial ",
     "description": "",
     "legislation": "",
@@ -583,7 +583,7 @@
     "variableDates": {}
   },
   {
-    "date": "18/05",
+    "date": "18-05",
     "title": "Dia Nacional do Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
     "description": "",
     "legislation": "",
@@ -594,7 +594,7 @@
     "variableDates": {}
   },
   {
-    "date": "19/05",
+    "date": "19-05",
     "title": "Dia Nacional de Doação de Leite Humano",
     "description": "",
     "legislation": "",
@@ -605,7 +605,7 @@
     "variableDates": {}
   },
   {
-    "date": "20/05",
+    "date": "20-05",
     "title": "Dia Nacional do Medicamento Genérico",
     "description": "",
     "legislation": "",
@@ -616,7 +616,7 @@
     "variableDates": {}
   },
   {
-    "date": "25/05",
+    "date": "25-05",
     "title": "Dia Internacional da Tireoide",
     "description": "",
     "legislation": "",
@@ -627,7 +627,7 @@
     "variableDates": {}
   },
   {
-    "date": "26/05",
+    "date": "26-05",
     "title": "Dia Nacional de Combate ao Glaucoma",
     "description": "",
     "legislation": "",
@@ -638,7 +638,7 @@
     "variableDates": {}
   },
   {
-    "date": "28/05",
+    "date": "28-05",
     "title": "Dia Internacional de Luta pela Saúde da Mulher",
     "description": "",
     "legislation": "",
@@ -649,7 +649,7 @@
     "variableDates": {}
   },
   {
-    "date": "28/05",
+    "date": "28-05",
     "title": "Dia Nacional de Redução da Mortalidade Materna",
     "description": "",
     "legislation": "",
@@ -660,7 +660,7 @@
     "variableDates": {}
   },
   {
-    "date": "29/05",
+    "date": "29-05",
     "title": "Dia Mundial da Saúde Digestiva",
     "description": "",
     "legislation": "",
@@ -671,7 +671,7 @@
     "variableDates": {}
   },
   {
-    "date": "29/05",
+    "date": "29-05",
     "title": "Dia do Gastroenterologista",
     "description": "",
     "legislation": "",
@@ -682,7 +682,7 @@
     "variableDates": {}
   },
   {
-    "date": "30/05",
+    "date": "30-05",
     "title": "Dia Mundial da Esclerose Múltipla Corpus Christi",
     "description": "",
     "legislation": "",
@@ -693,7 +693,7 @@
     "variableDates": {}
   },
   {
-    "date": "31/05",
+    "date": "31-05",
     "title": "Dia Mundial sem Tabaco 🚬",
     "description": "",
     "legislation": "",
@@ -704,7 +704,7 @@
     "variableDates": {}
   },
   {
-    "date": "02/06",
+    "date": "02-06",
     "title": "Dia do Pneumologista ",
     "description": "",
     "legislation": "",
@@ -715,7 +715,7 @@
     "variableDates": {}
   },
   {
-    "date": "03/06",
+    "date": "03-06",
     "title": "Dia da Conscientização contra a Obesidade Infantil",
     "description": "",
     "legislation": "",
@@ -726,7 +726,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/06",
+    "date": "04-06",
     "title": "Dia Mundial das Crianças Vítimas de Agressão",
     "description": "",
     "legislation": "",
@@ -737,7 +737,7 @@
     "variableDates": {}
   },
   {
-    "date": "06/06",
+    "date": "06-06",
     "title": "Dia Nacional de Luta contra Queimaduras 🔥",
     "description": "",
     "legislation": "",
@@ -748,7 +748,7 @@
     "variableDates": {}
   },
   {
-    "date": "06/06",
+    "date": "06-06",
     "title": "Dia Nacional do Teste do Pezinho",
     "description": "",
     "legislation": "",
@@ -759,7 +759,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/06",
+    "date": "09-06",
     "title": "Dia da Imunização",
     "description": "",
     "legislation": "",
@@ -770,7 +770,7 @@
     "variableDates": {}
   },
   {
-    "date": "11/06",
+    "date": "11-06",
     "title": "Dia do Educador Sanitário",
     "description": "",
     "legislation": "",
@@ -781,7 +781,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/06",
+    "date": "12-06",
     "title": "Dia da Conscientização da Cardiopatia Congênita",
     "description": "",
     "legislation": "",
@@ -792,7 +792,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/06",
+    "date": "14-06",
     "title": "Dia Mundial do Doador de Sangue",
     "description": "",
     "legislation": "",
@@ -803,7 +803,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/06",
+    "date": "15-06",
     "title": "Dia Mundial de Conscientização da Violência contra a Pessoa Idosa",
     "description": "",
     "legislation": "",
@@ -814,7 +814,7 @@
     "variableDates": {}
   },
   {
-    "date": "19/06",
+    "date": "19-06",
     "title": "Dia Mundial de Conscientização sobre a Doença Falciforme",
     "description": "",
     "legislation": "",
@@ -825,7 +825,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/06",
+    "date": "21-06",
     "title": "Dia Nacional de Controle da Asma",
     "description": "",
     "legislation": "",
@@ -836,7 +836,7 @@
     "variableDates": {}
   },
   {
-    "date": "25/06",
+    "date": "25-06",
     "title": "Dia Mundial do Vitiligo",
     "description": "",
     "legislation": "",
@@ -847,7 +847,7 @@
     "variableDates": {}
   },
   {
-    "date": "26/06",
+    "date": "26-06",
     "title": "Dia Internacional sobre o Abuso e o Tráfico Ilícito de Drogas",
     "description": "",
     "legislation": "",
@@ -858,7 +858,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/07",
+    "date": "01-07",
     "title": "Dia da vacina BCG",
     "description": "",
     "legislation": "",
@@ -869,7 +869,7 @@
     "variableDates": {}
   },
   {
-    "date": "02/07",
+    "date": "02-07",
     "title": "Dia do Hospital 🏥",
     "description": "",
     "legislation": "",
@@ -880,7 +880,7 @@
     "variableDates": {}
   },
   {
-    "date": "08/07",
+    "date": "08-07",
     "title": "Dia Mundial da Alergia",
     "description": "",
     "legislation": "",
@@ -891,7 +891,7 @@
     "variableDates": {}
   },
   {
-    "date": "08/07",
+    "date": "08-07",
     "title": "Dia Nacional da Ciência e do Pesquisador Científico 👨🏻‍🔬",
     "description": "",
     "legislation": "",
@@ -902,7 +902,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/07",
+    "date": "09-07",
     "title": "Dia do Oncologista",
     "description": "",
     "legislation": "",
@@ -913,7 +913,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/07",
+    "date": "10-07",
     "title": "Dia Mundial da Saúde Ocular",
     "description": "",
     "legislation": "",
@@ -924,7 +924,7 @@
     "variableDates": {}
   },
   {
-    "date": "13/07",
+    "date": "13-07",
     "title": "Dia Internacional do Transtorno de Déficit de Atenção (TDAH)",
     "description": "",
     "legislation": "",
@@ -935,7 +935,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/07",
+    "date": "15-07",
     "title": "Dia Nacional do Homem",
     "description": "",
     "legislation": "",
@@ -946,7 +946,7 @@
     "variableDates": {}
   },
   {
-    "date": "22/07",
+    "date": "22-07",
     "title": "Dia Mundial do Cérebro 🧠",
     "description": "",
     "legislation": "",
@@ -957,7 +957,7 @@
     "variableDates": {}
   },
   {
-    "date": "24/07",
+    "date": "24-07",
     "title": "Dia Internacional do Autocuidado",
     "description": "",
     "legislation": "",
@@ -968,7 +968,7 @@
     "variableDates": {}
   },
   {
-    "date": "25/07",
+    "date": "25-07",
     "title": "Aniversário de Criação do Ministério da Saúde",
     "description": "",
     "legislation": "",
@@ -990,7 +990,7 @@
     "variableDates": {}
   },
   {
-    "date": "26/07",
+    "date": "26-07",
     "title": "Dia dos Avós",
     "description": "",
     "legislation": "",
@@ -1001,7 +1001,7 @@
     "variableDates": {}
   },
   {
-    "date": "27/07",
+    "date": "27-07",
     "title": "Dia do Pediatra",
     "description": "",
     "legislation": "",
@@ -1012,7 +1012,7 @@
     "variableDates": {}
   },
   {
-    "date": "28/07",
+    "date": "28-07",
     "title": "Dia Mundial de Luta contra as Hepatites Virais",
     "description": "",
     "legislation": "",
@@ -1023,7 +1023,7 @@
     "variableDates": {}
   },
   {
-    "date": "30/07",
+    "date": "30-07",
     "title": "Dia do Cirurgião Geral",
     "description": "",
     "legislation": "",
@@ -1034,7 +1034,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/08",
+    "date": "01-08",
     "title": "Dia Nacional dos Portadores de Vitiligo",
     "description": "",
     "legislation": "",
@@ -1045,7 +1045,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/08",
+    "date": "01-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1056,7 +1056,7 @@
     "variableDates": {}
   },
   {
-    "date": "02/08",
+    "date": "02-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1067,7 +1067,7 @@
     "variableDates": {}
   },
   {
-    "date": "03/08",
+    "date": "03-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1078,7 +1078,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/08",
+    "date": "04-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1089,7 +1089,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/08",
+    "date": "05-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1100,7 +1100,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/08",
+    "date": "05-08",
     "title": "Dia do Patologista",
     "description": "",
     "legislation": "",
@@ -1111,7 +1111,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/08",
+    "date": "05-08",
     "title": "Dia Nacional da Saúde",
     "description": "",
     "legislation": "",
@@ -1122,7 +1122,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/08",
+    "date": "05-08",
     "title": "Dia da Farmácia",
     "description": "",
     "legislation": "",
@@ -1133,7 +1133,7 @@
     "variableDates": {}
   },
   {
-    "date": "06/08",
+    "date": "06-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1144,7 +1144,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/08",
+    "date": "07-08",
     "title": "Semana Mundial do Aleitamento Materno",
     "description": "",
     "legislation": "",
@@ -1155,7 +1155,7 @@
     "variableDates": {}
   },
   {
-    "date": "08/08",
+    "date": "08-08",
     "title": "Dia Nacional de Combate ao Colesterol",
     "description": "",
     "legislation": "",
@@ -1166,7 +1166,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/08",
+    "date": "09-08",
     "title": "Dia Internacional dos Povos Indígenas 🏹",
     "description": "",
     "legislation": "",
@@ -1177,7 +1177,7 @@
     "variableDates": {}
   },
   {
-    "date": "13/08",
+    "date": "13-08",
     "title": "Dia do Psiquiatra",
     "description": "",
     "legislation": "",
@@ -1188,7 +1188,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/08",
+    "date": "14-08",
     "title": "Dia do Cardiologista ❤",
     "description": "",
     "legislation": "",
@@ -1199,7 +1199,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/08",
+    "date": "15-08",
     "title": "Dia da Gestante 🤰🏻",
     "description": "",
     "legislation": "",
@@ -1210,7 +1210,7 @@
     "variableDates": {}
   },
   {
-    "date": "27/08",
+    "date": "27-08",
     "title": "Dia do Psicólogo",
     "description": "",
     "legislation": "",
@@ -1221,7 +1221,7 @@
     "variableDates": {}
   },
   {
-    "date": "29/08",
+    "date": "29-08",
     "title": "Dia Nacional de Combate ao Fumo 🚬",
     "description": "",
     "legislation": "",
@@ -1232,7 +1232,7 @@
     "variableDates": {}
   },
   {
-    "date": "30/08",
+    "date": "30-08",
     "title": "Dia Nacional de Conscientização sobre a Esclerose Múltipla",
     "description": "",
     "legislation": "",
@@ -1243,7 +1243,7 @@
     "variableDates": {}
   },
   {
-    "date": "31/08",
+    "date": "31-08",
     "title": "Dia do Nutricionista",
     "description": "",
     "legislation": "",
@@ -1254,7 +1254,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/09",
+    "date": "01-09",
     "title": "Dia do Endocrinologista",
     "description": "",
     "legislation": "",
@@ -1265,7 +1265,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/09",
+    "date": "01-09",
     "title": "Dia do Profissional de Educação Física",
     "description": "",
     "legislation": "",
@@ -1276,7 +1276,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/09",
+    "date": "04-09",
     "title": "Dia da Saúde Sexual",
     "description": "",
     "legislation": "",
@@ -1287,7 +1287,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/09",
+    "date": "07-09",
     "title": "Independência 🇧🇷",
     "description": "Data do chamado Grito do Ipiranga, que iniciou o processo de Independência do Brasil.",
     "legislation": "Lei nº 10.607, de 19 de dezembro de 2002 - http://www.planalto.gov.br/ccivil_03/leis/2002/L10607.htm",
@@ -1298,7 +1298,7 @@
     "variableDates": {}
   },
   {
-    "date": "08/09",
+    "date": "08-09",
     "title": "Dia Mundial da Fisioterapia",
     "description": "",
     "legislation": "",
@@ -1309,7 +1309,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/09",
+    "date": "10-09",
     "title": "Dia Mundial de Prevenção ao Suicídio",
     "description": "",
     "legislation": "",
@@ -1320,7 +1320,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/09",
+    "date": "12-09",
     "title": "Dia do Urologista",
     "description": "",
     "legislation": "",
@@ -1331,7 +1331,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/09",
+    "date": "14-09",
     "title": "Dia do Médico Nuclear ☢",
     "description": "",
     "legislation": "",
@@ -1342,7 +1342,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/09",
+    "date": "15-09",
     "title": "Dia do Nutrólogo",
     "description": "",
     "legislation": "",
@@ -1353,7 +1353,7 @@
     "variableDates": {}
   },
   {
-    "date": "16/09",
+    "date": "16-09",
     "title": "Dia Mundial do Doador de Medula Óssea",
     "description": "",
     "legislation": "",
@@ -1364,7 +1364,7 @@
     "variableDates": {}
   },
   {
-    "date": "17/09",
+    "date": "17-09",
     "title": "Dia Mundial da Segurança dos Pacientes",
     "description": "",
     "legislation": "",
@@ -1375,7 +1375,7 @@
     "variableDates": {}
   },
   {
-    "date": "18/09",
+    "date": "18-09",
     "title": "LGPD no Brasil",
     "description": "",
     "legislation": "",
@@ -1386,7 +1386,7 @@
     "variableDates": {}
   },
   {
-    "date": "18/09",
+    "date": "18-09",
     "title": "Dia Mundial da Ética Médica ‍⚕",
     "description": "",
     "legislation": "",
@@ -1397,7 +1397,7 @@
     "variableDates": {}
   },
   {
-    "date": "19/09",
+    "date": "19-09",
     "title": "Dia do Ortopedista 🦴",
     "description": "",
     "legislation": "",
@@ -1408,7 +1408,7 @@
     "variableDates": {}
   },
   {
-    "date": "19/09",
+    "date": "19-09",
     "title": "Aniversário do SUS",
     "description": "",
     "legislation": "",
@@ -1419,7 +1419,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/09",
+    "date": "21-09",
     "title": "Dia Nacional de Luta da Pessoa Portadora de Deficiência",
     "description": "",
     "legislation": "",
@@ -1430,7 +1430,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/09",
+    "date": "21-09",
     "title": "Dia Nacional de Conscientização da Pessoa com Alzheimer",
     "description": "",
     "legislation": "",
@@ -1441,7 +1441,7 @@
     "variableDates": {}
   },
   {
-    "date": "22/09",
+    "date": "22-09",
     "title": "Dia Nacional da Saúde de Adolescentes e Jovens",
     "description": "",
     "legislation": "",
@@ -1452,7 +1452,7 @@
     "variableDates": {}
   },
   {
-    "date": "23/09",
+    "date": "23-09",
     "title": "Dia de Combate ao Estresse",
     "description": "",
     "legislation": "",
@@ -1463,7 +1463,7 @@
     "variableDates": {}
   },
   {
-    "date": "23/09",
+    "date": "23-09",
     "title": "Dia Contra a Exploração Sexual e o Tráfico de Mulheres e Crianças",
     "description": "",
     "legislation": "",
@@ -1474,7 +1474,7 @@
     "variableDates": {}
   },
   {
-    "date": "25/09",
+    "date": "25-09",
     "title": "Dia Internacional do Farmacêutico 💊",
     "description": "",
     "legislation": "",
@@ -1485,7 +1485,7 @@
     "variableDates": {}
   },
   {
-    "date": "27/09",
+    "date": "27-09",
     "title": "Dia Nacional de Doação de Órgãos e Tecidos",
     "description": "",
     "legislation": "",
@@ -1496,7 +1496,7 @@
     "variableDates": {}
   },
   {
-    "date": "28/09",
+    "date": "28-09",
     "title": "Dia Mundial contra a Raiva",
     "description": "",
     "legislation": "",
@@ -1507,7 +1507,7 @@
     "variableDates": {}
   },
   {
-    "date": "29/09",
+    "date": "29-09",
     "title": "Dia Mundial do Coração ♥",
     "description": "",
     "legislation": "",
@@ -1518,7 +1518,7 @@
     "variableDates": {}
   },
   {
-    "date": "30/09",
+    "date": "30-09",
     "title": "Dia da Secretária",
     "description": "",
     "legislation": "",
@@ -1529,7 +1529,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/10",
+    "date": "01-10",
     "title": "Dia Internacional das Pessoas Idosas 👴🏻👵🏻",
     "description": "",
     "legislation": "",
@@ -1540,7 +1540,7 @@
     "variableDates": {}
   },
   {
-    "date": "03/10",
+    "date": "03-10",
     "title": "Dia Mundial do Dentista 🦷",
     "description": "",
     "legislation": "",
@@ -1551,7 +1551,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/10",
+    "date": "04-10",
     "title": "Dia Nacional do Agente Comunitário de Saúde",
     "description": "",
     "legislation": "",
@@ -1562,7 +1562,7 @@
     "variableDates": {}
   },
   {
-    "date": "04/10",
+    "date": "04-10",
     "title": "Dia da Medicina do Trabalho e do Médico do Trabalho",
     "description": "",
     "legislation": "",
@@ -1573,7 +1573,7 @@
     "variableDates": {}
   },
   {
-    "date": "06/10",
+    "date": "06-10",
     "title": "Dia Mundial da Paralisia Cerebral",
     "description": "",
     "legislation": "",
@@ -1584,7 +1584,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/10",
+    "date": "10-10",
     "title": "Dia Mundial da Saúde Mental",
     "description": "",
     "legislation": "",
@@ -1595,7 +1595,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/10",
+    "date": "10-10",
     "title": "Dia Nacional de Luta contra a Violência à Mulher",
     "description": "",
     "legislation": "",
@@ -1606,7 +1606,7 @@
     "variableDates": {}
   },
   {
-    "date": "11/10",
+    "date": "11-10",
     "title": "Dia Nacional da Prevenção da Obesidade",
     "description": "",
     "legislation": "",
@@ -1617,7 +1617,7 @@
     "variableDates": {}
   },
   {
-    "date": "11/10",
+    "date": "11-10",
     "title": "Dia Nacional do Deficiente Físico ♿",
     "description": "",
     "legislation": "",
@@ -1628,7 +1628,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/10",
+    "date": "12-10",
     "title": "Dia Mundial da Visão 👁",
     "description": "",
     "legislation": "",
@@ -1639,7 +1639,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/10",
+    "date": "12-10",
     "title": "Dia da Cirurgia Infantil",
     "description": "",
     "legislation": "",
@@ -1650,7 +1650,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/10",
+    "date": "12-10",
     "title": "Dia das Crianças 🎈",
     "description": "",
     "legislation": "",
@@ -1661,7 +1661,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/10",
+    "date": "12-10",
     "title": "Nossa Senhora Aparecida",
     "description": "Padroeira do Brasil",
     "legislation": "Lei nº 6.802, de 30 de junho de 1980 - http://www.planalto.gov.br/ccivil_03/Leis/L6802.htm",
@@ -1672,7 +1672,7 @@
     "variableDates": {}
   },
   {
-    "date": "13/10",
+    "date": "13-10",
     "title": "Dia do Terapeuta Ocupacional",
     "description": "",
     "legislation": "",
@@ -1683,7 +1683,7 @@
     "variableDates": {}
   },
   {
-    "date": "13/10",
+    "date": "13-10",
     "title": "Dia do Fisioterapeuta",
     "description": "",
     "legislation": "",
@@ -1694,7 +1694,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/10",
+    "date": "15-10",
     "title": "Dia do Neurologista",
     "description": "",
     "legislation": "",
@@ -1705,7 +1705,7 @@
     "variableDates": {}
   },
   {
-    "date": "16/10",
+    "date": "16-10",
     "title": "Dia do Anestesiologista",
     "description": "",
     "legislation": "",
@@ -1716,7 +1716,7 @@
     "variableDates": {}
   },
   {
-    "date": "16/10",
+    "date": "16-10",
     "title": "Dia Mundial da Alimentação 🍎",
     "description": "",
     "legislation": "",
@@ -1727,7 +1727,7 @@
     "variableDates": {}
   },
   {
-    "date": "17/10",
+    "date": "17-10",
     "title": "Dia Nacional da Vacinação 💉",
     "description": "",
     "legislation": "",
@@ -1738,7 +1738,7 @@
     "variableDates": {}
   },
   {
-    "date": "18/10",
+    "date": "18-10",
     "title": "Dia do Médico ⚕️",
     "description": "",
     "legislation": "",
@@ -1749,7 +1749,7 @@
     "variableDates": {}
   },
   {
-    "date": "19/10",
+    "date": "19-10",
     "title": "Dia Mundial de Combate ao Câncer de Mama ",
     "description": "",
     "legislation": "",
@@ -1760,7 +1760,7 @@
     "variableDates": {}
   },
   {
-    "date": "19/10",
+    "date": "19-10",
     "title": "Dia Nacional de Combate à Sífilis e à Sífilis Congênita",
     "description": "",
     "legislation": "",
@@ -1771,7 +1771,7 @@
     "variableDates": {}
   },
   {
-    "date": "20/10",
+    "date": "20-10",
     "title": "Dia Mundial da Osteoporose",
     "description": "",
     "legislation": "",
@@ -1782,7 +1782,7 @@
     "variableDates": {}
   },
   {
-    "date": "24/10",
+    "date": "24-10",
     "title": "Dia Mundial de Combate à Poliomielite",
     "description": "",
     "legislation": "",
@@ -1793,7 +1793,7 @@
     "variableDates": {}
   },
   {
-    "date": "27/10",
+    "date": "27-10",
     "title": "Dia Nacional de Mobilização Pró Saúde da População Negra",
     "description": "",
     "legislation": "",
@@ -1804,7 +1804,7 @@
     "variableDates": {}
   },
   {
-    "date": "29/10",
+    "date": "29-10",
     "title": "Dia Mundial do AVC",
     "description": "",
     "legislation": "",
@@ -1815,7 +1815,7 @@
     "variableDates": {}
   },
   {
-    "date": "30/10",
+    "date": "30-10",
     "title": "Dia do Ginecologista e Obstetra",
     "description": "",
     "legislation": "",
@@ -1826,7 +1826,7 @@
     "variableDates": {}
   },
   {
-    "date": "30/10",
+    "date": "30-10",
     "title": "Dia Nacional de Luta contra o Reumatismo",
     "description": "",
     "legislation": "",
@@ -1837,7 +1837,7 @@
     "variableDates": {}
   },
   {
-    "date": "31/10",
+    "date": "31-10",
     "title": "Halloween 🎃",
     "description": "",
     "legislation": "",
@@ -1848,7 +1848,7 @@
     "variableDates": {}
   },
   {
-    "date": "02/11",
+    "date": "02-11",
     "title": "Finados ⚰",
     "description": "Dia de memória aos mortos",
     "legislation": "Lei nº 10.607, de 19 de dezembro de 2002 - http://www.planalto.gov.br/ccivil_03/leis/2002/L10607.htm",
@@ -1859,7 +1859,7 @@
     "variableDates": {}
   },
   {
-    "date": "08/11",
+    "date": "08-11",
     "title": "Dia da Radiologia e do Radiologista",
     "description": "",
     "legislation": "",
@@ -1870,7 +1870,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/11",
+    "date": "10-11",
     "title": "Dia Nacional de Prevenção e Combate à Surdez",
     "description": "",
     "legislation": "",
@@ -1881,7 +1881,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/11",
+    "date": "10-11",
     "title": "Dia do Médico Intensivista",
     "description": "",
     "legislation": "",
@@ -1892,7 +1892,7 @@
     "variableDates": {}
   },
   {
-    "date": "12/11",
+    "date": "12-11",
     "title": "Dia do Psicopedagogo",
     "description": "",
     "legislation": "",
@@ -1903,7 +1903,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/11",
+    "date": "14-11",
     "title": "Dia Mundial do Diabetes",
     "description": "",
     "legislation": "",
@@ -1914,7 +1914,7 @@
     "variableDates": {}
   },
   {
-    "date": "15/11",
+    "date": "15-11",
     "title": "Proclamação da República",
     "description": "Derrubada da Monarquia e instalação da República.",
     "legislation": "Lei nº 10.607, de 19 de dezembro de 2002 - http://www.planalto.gov.br/ccivil_03/leis/2002/L10607.htm",
@@ -1925,7 +1925,7 @@
     "variableDates": {}
   },
   {
-    "date": "16/11",
+    "date": "16-11",
     "title": "Dia Nacional dos Ostomizados",
     "description": "",
     "legislation": "",
@@ -1936,7 +1936,7 @@
     "variableDates": {}
   },
   {
-    "date": "17/11",
+    "date": "17-11",
     "title": "Dia Mundial da Prematuridade",
     "description": "",
     "legislation": "",
@@ -1947,7 +1947,7 @@
     "variableDates": {}
   },
   {
-    "date": "17/11",
+    "date": "17-11",
     "title": "Dia Nacional de Combate à Tuberculose",
     "description": "",
     "legislation": "",
@@ -1958,7 +1958,7 @@
     "variableDates": {}
   },
   {
-    "date": "17/11",
+    "date": "17-11",
     "title": "Dia de Combate ao Câncer de Próstata",
     "description": "",
     "legislation": "",
@@ -1969,7 +1969,7 @@
     "variableDates": {}
   },
   {
-    "date": "20/11",
+    "date": "20-11",
     "title": "Dia da Consciência Negra ✊🏽✊🏾✊🏿",
     "description": "",
     "legislation": "",
@@ -1980,7 +1980,7 @@
     "variableDates": {}
   },
   {
-    "date": "20/11",
+    "date": "20-11",
     "title": "Dia do Biomédico",
     "description": "",
     "legislation": "",
@@ -1991,7 +1991,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/11",
+    "date": "21-11",
     "title": "Dia Nacional da Homeopatia",
     "description": "",
     "legislation": "",
@@ -2002,7 +2002,7 @@
     "variableDates": {}
   },
   {
-    "date": "23/11",
+    "date": "23-11",
     "title": "Dia Nacional de Combate ao Câncer Infanto Juvenil",
     "description": "",
     "legislation": "",
@@ -2013,7 +2013,7 @@
     "variableDates": {}
   },
   {
-    "date": "01/12",
+    "date": "01-12",
     "title": "Dia Mundial de Luta contra a Aids",
     "description": "",
     "legislation": "",
@@ -2024,7 +2024,7 @@
     "variableDates": {}
   },
   {
-    "date": "03/12",
+    "date": "03-12",
     "title": "Dia Internacional da Pessoa com Deficiência ♿",
     "description": "",
     "legislation": "",
@@ -2035,7 +2035,7 @@
     "variableDates": {}
   },
   {
-    "date": "05/12",
+    "date": "05-12",
     "title": "Dia do Médico da Família e Comunidade",
     "description": "",
     "legislation": "",
@@ -2046,7 +2046,7 @@
     "variableDates": {}
   },
   {
-    "date": "07/12",
+    "date": "07-12",
     "title": "Dia do Cirurgião Plástico",
     "description": "",
     "legislation": "",
@@ -2057,7 +2057,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/12",
+    "date": "09-12",
     "title": "Dia do Fonoaudiólogo",
     "description": "",
     "legislation": "",
@@ -2068,7 +2068,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/12",
+    "date": "09-12",
     "title": "Dia da Criança com Deficiência ♿",
     "description": "",
     "legislation": "",
@@ -2079,7 +2079,7 @@
     "variableDates": {}
   },
   {
-    "date": "09/12",
+    "date": "09-12",
     "title": "Dia do Alcoólico Recuperado",
     "description": "",
     "legislation": "",
@@ -2090,7 +2090,7 @@
     "variableDates": {}
   },
   {
-    "date": "10/12",
+    "date": "10-12",
     "title": "Dia Internacional dos Direitos Humanos",
     "description": "",
     "legislation": "",
@@ -2101,7 +2101,7 @@
     "variableDates": {}
   },
   {
-    "date": "13/12",
+    "date": "13-12",
     "title": "Dia Nacional do Deficiente Visual 👁",
     "description": "",
     "legislation": "",
@@ -2112,7 +2112,7 @@
     "variableDates": {}
   },
   {
-    "date": "14/12",
+    "date": "14-12",
     "title": "Dia do Alergista",
     "description": "",
     "legislation": "",
@@ -2123,7 +2123,7 @@
     "variableDates": {}
   },
   {
-    "date": "21/12",
+    "date": "21-12",
     "title": "Dia do Atleta 🏃",
     "description": "",
     "legislation": "",
@@ -2134,7 +2134,7 @@
     "variableDates": {}
   },
   {
-    "date": "25/12",
+    "date": "25-12",
     "title": "Natal ✨",
     "description": "Celebração cristã do nascimento de Cristo",
     "legislation": "Lei nº 10.607, de 19 de dezembro de 2002 - http://www.planalto.gov.br/ccivil_03/leis/2002/L10607.htm",
@@ -2145,7 +2145,7 @@
     "variableDates": {}
   },
   {
-    "date": "31/12",
+    "date": "31-12",
     "title": "Ano Novo 🥂",
     "description": "",
     "legislation": "",
